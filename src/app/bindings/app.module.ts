@@ -13,5 +13,4 @@ import { CustomTwoWayDataBindingComponent } from './custom-two-way-data-binding/
   bootstrap: [AppComponent]
 })
 
-export class AppModule {
-}
+export class AppModule {}
