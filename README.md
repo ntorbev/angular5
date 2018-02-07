@@ -1,3 +1,7 @@
+To run a particular app, you need to know its name - open the file .angular-cli.json and see the names of the apps configured in the apps property there.
+For example, the first app is configured as "name": "bindings". To run this app (after you did npm install), run the following command: **ng serve --app bindings**
+OR just use the number of the app like this **ng serve --app 0**
+
 # Angular5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
